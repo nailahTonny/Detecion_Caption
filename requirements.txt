@@ -6,4 +6,4 @@ timm
 Pillow
 matplotlib
 pandas
-opencv-python
+opencv-python==4.8.1.78
