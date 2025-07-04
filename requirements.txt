@@ -1,0 +1,9 @@
+ultralytics
+opencv-python==4.8.1.78
+transformers
+torch
+torchvision
+timm
+Pillow
+matplotlib
+pandas
