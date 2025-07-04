@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1-oogNFDvUUrPeAIwdWDsYdLeTySO91Wg
 """
 
-!pip install streamlit ultralytics transformers torch Pillow matplotlib pandas
+
 import streamlit as st
 from ultralytics import YOLO
 from transformers import VisionEncoderDecoderModel, ViTFeatureExtractor, AutoTokenizer
